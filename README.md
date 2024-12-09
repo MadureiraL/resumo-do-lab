@@ -40,5 +40,18 @@ há tambem alguns outros recursos como:
 - Governança
 - Gerenciabilidade
 
+IaaS (infraestrutura como serviço)
+Recursos e serviços onde teremos mais acesso, responsabilidades e liberdade
+backup, acesso, monitoramento e etc...
+Controle total sobre a infraestrutura de TI
+
+PaaS (platafroma como serviço)
+Foca no desenvolviemnto de aplicações sem se preocupar com a gestão da instrutura
+
+SaaS software como serviço
+Controle apenas sobre o acesso dos usuarios ao software
+Pagamento conforme o uso
+Os usuarios pagam pelo software que utilizam em um modelo de assinatura
+
 
 
