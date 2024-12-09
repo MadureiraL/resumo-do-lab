@@ -27,7 +27,7 @@ interrupções ou eventos que possam ocorrer.
 A escalabilidade refere-se à capacidade de ajustar recursos 
 para atender à demanda.
 
--Elasticiade
+- Elasticiade
 Com a elasticidade, se você experimentasse um salto 
 repentino acentuado na demanda, seus recursos 
 implantados poderiam ser expandidos 
