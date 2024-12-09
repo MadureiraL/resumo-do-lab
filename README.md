@@ -13,3 +13,32 @@ Temos diversos modelos de nuvem
 É o modelo que junta a nuvem publica com a privada para ter um melhor controle donde os aplicativos serão executados
 
 A nuvem geralmente funciona em um modelo baseado em consumo, o que significa que os usuários pagaram somente pelos recursos usados
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Aprendi sobre os beneficios da numvem
+
+- Alta disponibilidade
+A alta disponibilidade se concentra em garantir a 
+disponibilidade máxima, independentemente de 
+interrupções ou eventos que possam ocorrer.
+
+- Escalabilidade
+A escalabilidade refere-se à capacidade de ajustar recursos 
+para atender à demanda.
+
+-Elasticiade
+Com a elasticidade, se você experimentasse um salto 
+repentino acentuado na demanda, seus recursos 
+implantados poderiam ser expandidos 
+(automaticamente ou manualmente)
+
+há tambem alguns outros recursos como: 
+- Confiabilidade
+- Previsibilidade
+- Segurança
+- Governança
+- Gerenciabilidade
+
+
+
