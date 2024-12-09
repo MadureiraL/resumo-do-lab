@@ -39,7 +39,7 @@ há tambem alguns outros recursos como:
 - Segurança
 - Governança
 - Gerenciabilidade
-
+-------------------------------------------------------------------------------------------------------------------------------------
 IaaS (infraestrutura como serviço)
 Recursos e serviços onde teremos mais acesso, responsabilidades e liberdade
 backup, acesso, monitoramento e etc...
